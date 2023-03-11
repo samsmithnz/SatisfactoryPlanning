@@ -1,6 +1,6 @@
-# SatisfactoryPlanning
+# Satisfactory v1 Planning
 
-Basically create a surplus of 10 of everything for a mall. This creates a steady backlog of items for construction 
+First pillar: create a surplus of 10 of everything for a mall. This creates a steady backlog of items for construction 
 
 ## Space elevator total parts needed
 The space elevator parts is the ultimate goal - these parts aren't used for anything else, and knowing what we need helps us plan for each step.
