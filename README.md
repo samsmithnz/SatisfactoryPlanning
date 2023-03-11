@@ -34,4 +34,3 @@ Production requirement calculations
 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Versatile Framework	| 500	| 10 | none | 
 | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1	| Smart Plating	| 50	| 2	| none (note that we need to upscale or store enough for 4 p/min) |
 
-![image](https://user-images.githubusercontent.com/8389039/224492387-c1290bcc-12c9-4891-ae65-d4ad9759ad9b.png)
