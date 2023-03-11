@@ -19,6 +19,19 @@ Create 10 of everything.
 
 (from https://satisfactory.fandom.com/wiki/Space_Elevator)
 
-Space Elevator phase 3: 
-![image](https://user-images.githubusercontent.com/8389039/222414391-c6d75f90-849a-4912-bc73-2a87f83f7eef.png)
+Production requirement calculations
+| Phase	| Item	| Total required for phase |	target per minute |	Dependencies |
+| ----- | ----- | ----- | ----- | ----- | 
+| ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Assembly Directory System	| 4000	| 4	| Automated Wiring 60p/min + Adaptive Control Unit 8p/min |
+| ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Magnetic Field Generator	| 4000	| 4	| Versatile Framework 10p/min |
+| ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Nuclear Pasta	| 1000	| 1	| none |
+| ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Thermal Propulsion Rocket	| 1000	| 1	| Modula Engine 2.5 p/min |
+| ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Versatile Framework	| 2500	| 10	| none | 
+| ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Adaptive Control Unit	| 100	| 2	| automated wiring 15p/min |
+| ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Modular Engine	| 500	| 2	| smart plating 4p/min |
+| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Smart Plating	| 500	| 4	| none |
+| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Automated Wiring	| 100	| 15 | none	| 
+| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Versatile Framework	| 500	| 10 | none | 
+| ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1	| Smart Plating	| 50	| 2	| none |
 
+![image](https://user-images.githubusercontent.com/8389039/224492387-c1290bcc-12c9-4891-ae65-d4ad9759ad9b.png)
