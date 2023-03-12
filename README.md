@@ -34,3 +34,17 @@ Production requirement calculations
 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Versatile Framework	| 500	| 10 | none | 
 | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1	| Smart Plating	| 50	| 2	| none (note that we need to upscale or store enough for 4 p/min) |
 
+If we assume that the first phase of the space elevator will be available around 10 hours in, second phase 25 hours, third phase 50 hours, and last phase 100 hours, we can roughly project how many space elevator parts we will product and any short falls
+
+| Item | Phase 1 (15 hours) | Phase 1 carryover | Phase 2 (25 hours) | Phase 2 carryover| Phase 3 (50 hours)| Phase 3 carryover | Phase 4 (20 hours) | Phase 4 carryover | 
+| ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |  ----- | 
+| Assembly Directory System | | | | | | | 4800 | 800 | 
+| Magnetic Field Generator | | | | | | | 4800 | 800 | 
+| Nuclear Pasta | | | | | | | 1200 | 200 | 
+| Thermal Propulsion Rocket | | | | | | | 1200 | 200 | 			
+| Adaptive Control Unit ||  | | | 6000 | 5500 | 7900 | -100 |
+| Modular Engine | | ||  | 6000 | 5500 | 7900 | 5400 |							
+| Automated Wiring | | | 22500 |	22000 |	44500 |	43750 |	61750 |	1750 | 
+| Versatile Framework |	 |	 |	16750 |	16250 |	46250 |	43750 |	55750 |	45750 | 
+| Smart Plating | 1800 | 1750 | 4750 | 4250 | 10250 | 9250 | 11650 | 6650 |
+
