@@ -34,7 +34,7 @@ Production requirement calculations
 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Versatile Framework	| 500	| 10 | none | 
 | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1	| Smart Plating	| 50	| 2	| none (note that we need to upscale or store enough for 4 p/min) |
 
-If we assume that the first phase of the space elevator will be available around 10 hours in, second phase 25 hours, third phase 50 hours, and last phase 100 hours, we can roughly project how many space elevator parts we will product and any short falls
+If we assume that the first phase of the space elevator will be available around 10 hours in, second phase 25 hours, third phase 50 hours, and last phase 100 hours, we can roughly project how many space elevator parts we will produce (using the rates above), and any short falls.
 
 | Item | Phase 1 (15 hours) | Phase 1 carryover | Phase 2 (25 hours) | Phase 2 carryover| Phase 3 (50 hours)| Phase 3 carryover | Phase 4 (20 hours) | Phase 4 carryover | 
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |  ----- | 
