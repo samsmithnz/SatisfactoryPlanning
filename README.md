@@ -19,7 +19,7 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 
 (from https://satisfactory.fandom.com/wiki/Space_Elevator)
 
-Production requirement calculations
+## Production requirement calculations
 | Phase	| Item	| Total required for phase |	target per minute |	Dependencies |
 | ----- | ----- | ----- | ----- | ----- | 
 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Assembly Directory System	| 4000	| 4	| Automated Wiring 60p/min + Adaptive Control Unit 8p/min |
