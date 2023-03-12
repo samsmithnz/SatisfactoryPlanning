@@ -3,7 +3,7 @@
 First pillar: create a surplus of 10 of everything for a mall. This creates a steady backlog of items for construction 
 
 ## Space elevator total parts needed
-The space elevator parts is the ultimate goal - these parts aren't used for anything else, and knowing what we need helps us plan for each step.
+The production of space elevator parts is the ultimate goal - these parts aren't used for anything else, and knowing what we need helps us plan for each step.
 
 | Project Part | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Phase 1 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Phase 2 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Phase 3 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) Phase 4 | Total |
 | ------------ | ------- | ------- | ------- | ------- | ----- |
