@@ -29,7 +29,7 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Versatile Framework	| 2500	| 10	| none | 
 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Adaptive Control Unit	| 100	| 2	| automated wiring 15p/min (note that we need to upscale or store enough for 8 p/min) |
 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Modular Engine	| 500	| 2	| smart plating 4p/min (note that we need to upscale or store enough for 2.5 p/min) |
-| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Smart Plating	| 500	| 4	| none |
+| ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Smart Plating	| 500	| 2	| none |
 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Automated Wiring	| 100	| 15 | none	| 
 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) 2	| Versatile Framework	| 500	| 10 | none | 
 | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) 1	| Smart Plating	| 50	| 2	| none (note that we need to upscale or store enough for 4 p/min) |
