@@ -2,6 +2,8 @@
 
 First pillar: create a surplus of 10 of everything for a mall. This creates a steady backlog of items for construction 
 
+Second pillar: Plan a dedicated space elevator production area:
+
 ## Space elevator total parts needed
 The production of space elevator parts is the ultimate goal - these parts aren't used for anything else, and knowing what we need helps us plan for each step.
 
