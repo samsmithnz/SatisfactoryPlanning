@@ -1,7 +1,7 @@
 # Satisfactory v1 Planning
 
 Primary Okrs 
-- Create a surplus of 10 of everything for a mall. This creates a steady backlog of items for construction 
+- Create a surplus of everything for a mall. This creates a steady backlog of items for construction 
 - Plan a dedicated space elevator production area
 - Make all designs aesthetically pleasing - include walls, places to walk, color coded, etc.
 
