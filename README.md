@@ -51,3 +51,4 @@ If we assume that the first phase of the space elevator will be available around
 | Versatile Framework |	 |	 |	16750 |	16250 |	46250 |	43750 |	55750 |	45750 | 
 | Smart Plating | 1800 | 1750 | 4750 | 4250 | 10250 | 9250 | 11650 | 6650 |
 
+[All items plan](https://satisfactory-calculator.com/en/planners/production/index/json/%7B%22Desc_SpaceElevatorPart_7_C%22%3A%224%22%2C%22Desc_SpaceElevatorPart_6_C%22%3A%224%22%2C%22Desc_SpaceElevatorPart_8_C%22%3A%221%22%2C%22Desc_SpaceElevatorPart_9_C%22%3A%221%22%7D)
