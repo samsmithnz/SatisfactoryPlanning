@@ -39,7 +39,7 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 
 If we assume that the first phase of the space elevator will be available around 10 hours in, second phase 25 hours, third phase 50 hours, and last phase 100 hours, we can roughly project how many space elevator parts we will produce (using the rates above), and any short falls. By storing excess production, we can prep for the next phase, simplifying production lines.
 
-| Item | Phase 1 (15 hours) | Phase 1 carryover | Phase 2 (25 hours) | Phase 2 carryover| Phase 3 (50 hours)| Phase 3 carryover | Phase 4 (20 hours) | Phase 4 carryover | 
+| Item | Phase 1 (15 hours) | Phase 1 carry over | Phase 2 (25 hours) | Phase 2 carry over | Phase 3 (50 hours)| Phase 3 carry over | Phase 4 (20 hours) | Phase 4 carry over | 
 | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |  ----- | 
 | Assembly Directory System | | | | | | | 4800 | 800 | 
 | Magnetic Field Generator | | | | | | | 4800 | 800 | 
