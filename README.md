@@ -1,6 +1,6 @@
 # Satisfactory v1 Planning
 
-Primary Okrs 
+Primary goals 
 - Create a surplus of everything for a mall. This creates a steady backlog of items for construction 
 - Plan a dedicated space elevator production area
 - Make all designs aesthetically pleasing - include walls, places to walk, color coded, etc.
