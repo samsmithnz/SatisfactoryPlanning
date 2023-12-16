@@ -1,4 +1,4 @@
-# Satisfactory v1 Planning
+# Satisfactory Planning
 
 Primary goals 
 - Create a surplus of everything for a mall. This creates a steady backlog of items for construction 
