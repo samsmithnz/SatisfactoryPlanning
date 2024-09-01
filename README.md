@@ -28,8 +28,8 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) ?	| ?	| ?	| ?	| ? |
 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Assembly Directory System	| 500	| 4	| Automated Wiring 60p/min + Adaptive Control Unit 8p/min |
 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Magnetic Field Generator	| 500	| 4	| Versatile Framework 10p/min |
-| ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Nuclear Pasta	| 100	| 1	| none |
 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Thermal Propulsion Rocket	| 250	| 1	| Modula Engine 2.5 p/min |
+| ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Nuclear Pasta	| 100	| 1	| none |
 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Versatile Framework	| 2500	| 10	| none | 
 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Adaptive Control Unit	| 100	| 2	| automated wiring 15p/min (note that we need to upscale or store enough for 8 p/min) |
 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) 3	| Modular Engine	| 500	| 2	| smart plating 4p/min (note that we need to upscale or store enough for 2.5 p/min) |
