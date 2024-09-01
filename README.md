@@ -5,7 +5,7 @@ Primary goals
 - Plan a dedicated space elevator production area
 - Make all designs aesthetically pleasing - include walls, places to walk, color coded, etc.
 
-## Space elevator total parts needed
+## Space elevator total parts needed ([Update for v1.0 in progress, with what we know](https://satisfactory.wiki.gg/wiki/Future_content#1.0))
 The production of space elevator parts is the ultimate goal - these parts aren't used for anything else, and knowing what we need helps us plan for each step.
 
 | Project Part | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Phase 1 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Phase 2 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Phase 3 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) Phase 4 | Phase 5 | Total |
