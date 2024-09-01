@@ -17,8 +17,8 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 | Modular Engine | 0 | 0 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **500** | 2,500 | | 3,000 | 
 | Assembly Director System | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **1,000** | | 1,000 | 
 | Magnetic Field Generator | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **1,000**  || 1,000 | 
-| Nuclear Pasta | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | | 100 | 
 | Thermal Propulsion Rocket | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **250** | | 250 | 
+| Nuclear Pasta | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | | 100 | 
 
 (from https://satisfactory.fandom.com/wiki/Space_Elevator)
 
