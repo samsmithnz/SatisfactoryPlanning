@@ -18,10 +18,10 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 | Assembly Director System | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500** | | 500 | 
 | Magnetic Field Generator | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500**  || 500 | 
 | Thermal Propulsion Rocket | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **250** | | 250 | 
-| Nuclear Pasta | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | | 100 | 
-| Ballistic Warp Drive | 0 | 0 | 0 | 0 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) 1 | ? |
-| Biochemical Sculptor | 0 | 0 | 0 | 0 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) 1 | ? |
-| AI Expansion Server | 0 | 0 | 0 | 0 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) 1 | ? |
+| Nuclear Pasta | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | **1000** | 1100 | 
+| Ballistic Warp Drive | 0 | 0 | 0 | 0 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **200** | 200 |
+| Biochemical Sculptor | 0 | 0 | 0 | 0 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **1000** | 1000 |
+| AI Expansion Server | 0 | 0 | 0 | 0 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **256** | 256 |
 
 (from https://satisfactory.fandom.com/wiki/Space_Elevator)
 
@@ -29,6 +29,10 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 | Phase	| Item	| Total required for phase |	target per minute |	Dependencies |
 | ----- | ----- | ----- | ----- | ----- | 
 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) ?	| ?	| ?	| ?	| ? |
+| ![#A020F0](https://placehold.co/15x15/FFA500/FFA500.png) 5	| AI Expansion Server	| 256	| 1	| none |
+| ![#A020F0](https://placehold.co/15x15/FFA500/FFA500.png) 5	| Ballistic Warp Drive	| 200	| 1	| none |
+| ![#A020F0](https://placehold.co/15x15/FFA500/FFA500.png) 5	| Biochemical Sculptor	| 1000	| 1	| none |
+| ![#A020F0](https://placehold.co/15x15/FFA500/FFA500.png) 5	| Nuclear Pasta	| 1000	| 1	| none |
 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Assembly Directory System	| 500	| 4	| Automated Wiring 60p/min + Adaptive Control Unit 8p/min |
 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Magnetic Field Generator	| 500	| 4	| Versatile Framework 10p/min |
 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) 4	| Thermal Propulsion Rocket	| 250	| 1	| Modula Engine 2.5 p/min |
