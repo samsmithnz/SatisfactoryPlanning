@@ -15,8 +15,8 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 | Versatile Framework | 0 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **1000** | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **2,500** | 10,000 | | 13,000 | 
 | Adaptive Control Unit | 0 | 0 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **100** | 8,000 | | 8,100 | 
 | Modular Engine | 0 | 0 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **500** | 2,500 | | 3,000 | 
-| Assembly Director System | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **1,000** | | 1,000 | 
-| Magnetic Field Generator | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **1,000**  || 1,000 | 
+| Assembly Director System | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500** | | 500 | 
+| Magnetic Field Generator | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500**  || 500 | 
 | Thermal Propulsion Rocket | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **250** | | 250 | 
 | Nuclear Pasta | 0 | 0 | 0 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | | 100 | 
 | Ballistic Warp Drive | 0 | 0 | 0 | 0 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) 1 | ? |
