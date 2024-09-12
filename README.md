@@ -19,9 +19,9 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 | Magnetic Field Generator |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500**  || 500 | 
 | Thermal Propulsion Rocket |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **250** | | 250 | 
 | Nuclear Pasta |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **1000** | 1100 | 
-| Biochemical Sculptor |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **1000** | 1000 |
-| Ballistic Warp Drive |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **200** | 200 |
-| AI Expansion Server |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **256** | 256 |
+| Biochemical Sculptor |  |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **1000** | 1000 |
+| Ballistic Warp Drive |  |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **200** | 200 |
+| AI Expansion Server |  |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **256** | 256 |
 
 (from https://satisfactory.fandom.com/wiki/Space_Elevator)
 
