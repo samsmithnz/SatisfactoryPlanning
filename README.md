@@ -10,15 +10,15 @@ The production of space elevator parts is the ultimate goal - these parts aren't
 
 | Project Part | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) Phase 1 | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) Phase 2 | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) Phase 3 | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) Phase 4 | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) Phase 5 | Total |
 | ------------ | ------- | ------- | ------- | ------- | ------- | ----- |
-| Smart Plating | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **50** | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **1,000** | 1,000 | 5,000 | | 7,050 |
-| Automated Wiring |  | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **100** | 750 | 60,000 | | 60,850 | 
-| Versatile Framework |  | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **1,000** | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **2,500** | 10,000 | | 13,500 | 
-| Adaptive Control Unit |  |  | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **100** | 8,000 | | 8,100 | 
-| Modular Engine |  |  | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **500** | 2,500 | | 3,000 | 
-| Assembly Director System |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500** | | 500 | 
-| Magnetic Field Generator |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500**  || 500 | 
-| Thermal Propulsion Rocket |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **250** | | 250 | 
-| Nuclear Pasta |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **1,000** | 1,100 | 
+| Smart Plating | ![#f03c15](https://placehold.co/15x15/f03c15/f03c15.png) **50** | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **1,000** | 1,000 | 1,250 | 1000 | 4,300 |
+| Automated Wiring |  | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **100** | 750 | 5,000 | 2,500 | 8,350 | 
+| Versatile Framework |  | ![#c5f015](https://placehold.co/15x15/c5f015/c5f015.png) **1,000** | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **2,500** | 1,250 | 640 | 5,390 | 
+| Adaptive Control Unit |  |  | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **100** | 1,000 | 500 | 1,600 | 
+| Modular Engine |  |  | ![#1589F0](https://placehold.co/15x15/1589F0/1589F0.png) **500** | 625 | 500 | 1,625 | 
+| Assembly Director System |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500** | 250 | 750 | 
+| Magnetic Field Generator |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **500**  | 256| 756 | 
+| Thermal Propulsion Rocket |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **250** | 200 | 450 | 
+| Nuclear Pasta |  |  |  | ![#FFA500](https://placehold.co/15x15/FFA500/FFA500.png) **100** | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **1,100** | 1,200 | 
 | Biochemical Sculptor |  |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **1,000** | 1,000 |
 | Ballistic Warp Drive |  |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **200** | 200 |
 | AI Expansion Server |  |  |  |  | ![#A020F0](https://placehold.co/15x15/A020F0/A020F0.png) **256** | 256 |
